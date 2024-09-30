@@ -1,0 +1,3 @@
+A = "ABCD" ;
+A += "DCBA A" ;
+PRINT A ;
